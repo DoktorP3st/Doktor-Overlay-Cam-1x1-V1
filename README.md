@@ -89,9 +89,6 @@ Fichiers :
 
 ## 📢 Réseaux
 
-- 🎮 Twitch : https://twitch.tv/Paglorieux  
-- 🧪 Twitch : https://twitch.tv/DoktorPst  
-- ▶️ YouTube : https://youtube.com/@Paglorieux  
 
 ---
 
@@ -100,3 +97,9 @@ Fichiers :
 Version compacte du Cam Overlay, pensée pour les formats modernes.
 
 👉 Idéal pour contenu vertical et scènes minimalistes.
+
+---
+
+## 🔗 Liens
+
+- 🎮 Twitch : [twitch.tv/DoktorP3st](https://twitch.tv/DoktorP3st)
